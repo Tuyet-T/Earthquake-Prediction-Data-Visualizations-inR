@@ -4,7 +4,7 @@ By analyzing earthquake magnitudes over time and other contributed factors such 
 
 Data Overview
 
-The dataset used for this analysis contains earthquake-related data, including variables like the magnitude, latitude, longitude, and other numerical factors related to seismic activity as well as categorical variables such as address, country, continent. The dataset has some missing values and duplications but those columns are not used, thus I don't perform data cleaning.
+The dataset for this analysis includes earthquake-related variables such as magnitude, latitude, longitude, and other numerical seismic factors, along with categorical variables like address, country, and continent. Although the dataset contains some missing values and duplicates, these columns are not utilized in the analysis, so no data cleaning was performed.
 
 Visualization & Insights
 
